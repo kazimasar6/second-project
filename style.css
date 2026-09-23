@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.continer{
+    border: 3px solid black;
+    height: 900px;
+
+}
+.continer img {
+    border-radius: 300px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.continer img:hover {
+    filter: hue-rotate(280deg);
+}
+}
+.Abdul h2{
+
+    margin-left: 1050px;
+    text-decoration: none;
+    color: aqua;
+    
+
+}
+.Abdul h4{
+
+    color: black;
+    margin-left: 1170px;
+    text-decoration: none;
+    
+    
+}
+.Abdul h1{
+    text-align: center;
+}
+.Abdul p{
+ text-align: center;
+   font-weight: bolder;
+   background-color: bisque;
+   
+}
+.Abdul ol{
+    color: black;
+
+}
+.kazim {
+    margin-left: 950px ;
+    text-align: left;
+    
+}
+
+.kazim a {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.kazim a:hover {
+    color: red;
+}
